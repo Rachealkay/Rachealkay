@@ -1,7 +1,7 @@
 <h1 align="center">Racheal Kitiibwa</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Data+Analyst+in+training;Learning+in+public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2000&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Data+Analyst;Learning+in+public" alt="Typing SVG" />
 </div>
 
 <div align="center">
